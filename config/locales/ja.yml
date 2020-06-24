@@ -1,0 +1,10 @@
+ja:
+  activerecord:
+    models:
+      user: 'ユーザー'
+    attributes:
+      user:
+        name: 'ご芳名'
+        age: 'ご年齢'
+        address: 'ご住所'
+        boolean: '受領確認'
